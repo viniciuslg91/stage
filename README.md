@@ -3,7 +3,7 @@
 ## Preparar o Ambiente
 Antes de tudo, certifique-se de que o ROS 2 Humble está instalado e configurado corretamente no seu Ubuntu 22.04. 
 Se ainda não fez isso, siga o tutorial de instalação do [ROS 2 Humble](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html
-) ou [ros2_install](ros2_install.md).
+) ou [ROS2 - Máquina Virtual](ros2_install.md).
 
 No terminal, execute:
 ```bash
