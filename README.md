@@ -26,8 +26,8 @@ cd ~/ros2_ws
 Dentro da pasta src, clone o repositório do Stage e do stage_ros2:
 ```bash
 cd ~/ros2_ws/src
-git clone --branch ros2 git@github.com:tuw-robotics/Stage.git
-git clone --branch humble git@github.com:tuw-robotics/stage_ros2.git
+git clone --branch ros2 https://github.com:tuw-robotics/Stage.git
+git clone --branch humble https://github.com:tuw-robotics/stage_ros2.git
 ```
 ## Compilar o seu Workspace:
 Execute os seguintes comandos para compilar o workspace:
