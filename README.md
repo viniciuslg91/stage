@@ -2,7 +2,7 @@
 ## Pré-requisitos:
   - Sistema Operacional: Ubuntu 22.04 (Jammy Jellyfish) – 64 bits.
   - Recomenda-se usar uma máquina virtual (ex: VirtualBox).
-[install](res/install.md)
+
 ## Requisitos da Máquina Virtual:
   - RAM: 4 GB ou mais
   - Disco: 20 GB livres
