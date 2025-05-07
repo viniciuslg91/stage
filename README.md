@@ -10,6 +10,7 @@ No terminal, execute:
 source /opt/ros/humble/setup.bash
 ```
 Para evitar repetir esse comando a cada nova sessão, adicione-o ao final do seu ~/.bashrc.
+
 Também instale os pacotes necessário para o Stage: 
 ```bash
 sudo apt-get install git cmake g++ libjpeg8-dev libpng-dev libglu1-mesa-dev libltdl-dev libfltk1.1-dev
